@@ -1,0 +1,26 @@
+{
+    "name": "TokenName",
+    "website": "https://www.google.com",
+    "description": "Description for the token project.",
+    "symbol": "TKN",
+    "type": "coin",
+    "decimals": 18,
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://www.binance.com/"
+        }
+    ]
+}
