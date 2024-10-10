@@ -1,0 +1,28 @@
+{
+    "name": "MOCK",
+    "website": "https://www.google.com",
+    "twitter": "https://twitter.com",
+    "telegram": "https://t.me",
+    "description": "This is a test token",
+    "symbol": "MOCK",
+    "type": "coin",
+    "decimals": 18,
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://www.google.com/"
+        }
+    ]
+}
