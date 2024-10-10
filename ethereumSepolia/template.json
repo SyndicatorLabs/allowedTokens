@@ -1,6 +1,8 @@
 {
-    "name": "TokenName",
+    "name": "Token Name",
     "website": "https://www.google.com",
+    "twitter": "https://twitter.com",
+    "telegram": "https://t.me",
     "description": "Description for the token project.",
     "symbol": "TKN",
     "type": "coin",
@@ -11,8 +13,8 @@
             "url": "https://github.com/"
         },
         {
-            "name": "twitter",
-            "url": "https://twitter.com/"
+            "name": "discord",
+            "url": "https://discord.com/"
         },
         {
             "name": "reddit",
@@ -20,7 +22,7 @@
         },
         {
             "name": "whitepaper",
-            "url": "https://www.binance.com/"
+            "url": "https://www.google.com/"
         }
     ]
 }
